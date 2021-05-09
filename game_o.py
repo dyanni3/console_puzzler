@@ -1,5 +1,6 @@
 import numpy as np
 import sys
+import pandas #pointless
 
 def swap(i1, i2, arr):
     save = arr[i1[0], i1[1]]
